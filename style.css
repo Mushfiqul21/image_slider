@@ -1,0 +1,10 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.icon{
+    background: rgba(98, 97, 97, 0.505);
+    padding: 2%;
+    border-radius: 50%;
+}
